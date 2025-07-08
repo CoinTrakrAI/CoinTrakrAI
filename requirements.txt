@@ -1,1 +1,8 @@
-"numpy\npandas\nscikit-learn\nkeras\ntensorflow\nmatplotlib\npyyaml\njupyter" 
+numpy
+pandas
+scikit-learn
+keras
+tensorflow
+matplotlib
+pyyaml
+jupyter
