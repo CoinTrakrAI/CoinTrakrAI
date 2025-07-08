@@ -1,0 +1,5 @@
+
+[
+  {"step": 1, "question": "Are you a Beginner, Intermediate, or Expert trader?"},
+  {"step": 2, "logic": "Store this as user_profile['mode'] and route UX accordingly."}
+]

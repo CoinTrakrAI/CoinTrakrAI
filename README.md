@@ -1,0 +1,1 @@
+CoinTrakrAI Pro v2.9 - Fully Upgraded Build with AI Learning, Social Trading, Backtesting, and Mobile Enhancements

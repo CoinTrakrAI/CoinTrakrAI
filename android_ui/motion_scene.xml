@@ -1,0 +1,6 @@
+
+<!-- motion_scene.xml -->
+<MotionScene xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:motion="http://schemas.android.com/apk/res-auto">
+    <!-- Motion transitions here -->
+</MotionScene>

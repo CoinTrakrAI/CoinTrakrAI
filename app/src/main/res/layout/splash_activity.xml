@@ -1,0 +1,27 @@
+<!-- ===== splash_activity.xml ===== 
+<RelativeLayout xmlns:android=
+    Android:layout_width="match_parent"
+    Android:layout_height="match_parent"
+    Android:background="#000000">
+
+    <ImageView
+        Android:id="@+id/logo"
+        Android:layout_width="200dp"
+        Android:layout_height="200dp"
+        Android:layout_centerInParent="true"
+        Android:src="@drawable/cointrackr_logo"
+        Android:contentDescription="CoinTrackr.ai Logo"
+        Android:scaleType="centerInside" />
+
+    <TextView
+        Android:id="@+id/powered_by"
+        Android:layout_width="wrap_content"
+        Android:layout_height="wrap_content"
+        Android:text="Powered by Aeon Core & Neural Syndicate"
+        Android:textColor="#FF0000"
+        Android:textSize="16sp"
+        Android:layout_below="@id/logo"
+        Android:layout_centerHorizontal="true"
+        Android:layout_marginTop="16dp" />
+</RelativeLayout>
+

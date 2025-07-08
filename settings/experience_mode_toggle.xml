@@ -1,0 +1,10 @@
+
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <ListPreference
+        android:key="experience_mode"
+        android:title="Experience Mode"
+        android:summary="Choose Beginner, Intermediate, or Expert mode"
+        android:entries="@array/mode_options"
+        android:entryValues="@array/mode_values"
+        android:defaultValue="beginner"/>
+</PreferenceScreen>

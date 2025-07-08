@@ -1,0 +1,5 @@
+
+<layout>
+  <Switch text="Enable EU KYC/AML" />
+  <Switch text="Enable US Reg-T Reporting" />
+</layout>

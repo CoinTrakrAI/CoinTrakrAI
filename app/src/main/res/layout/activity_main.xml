@@ -1,0 +1,16 @@
+<!-- ===== activity_main.xml ===== -->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000000">
+
+    <TextView
+        android:id="@+id/welcome_message"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Welcome to CoinTrackr.ai!"
+        android:textSize="24sp"
+        android:textColor="#00FF00"
+        android:layout_centerInParent="true"
+        android:textAlignment="center" />
+</RelativeLayout>
