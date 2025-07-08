@@ -1,9 +1,6 @@
 CoinTrakrAI Pro v2.9 - Fully Upgraded Build with AI Learning, Social Trading, Backtesting, and Mobile Enhancements
 
 
-
----
-
 ## ✅ Project Status
 
 ![CI](https://github.com/CoinTrakrAI/CoinTrakrAI/actions/workflows/main.yml/badge.svg?branch=main)
@@ -21,6 +18,3 @@ This project includes AI-driven decision tools and interacts with financial syst
 - [Jarvis AI Consent Form](./JARVIS_CONSENT.md)
 
 > ⚠️ CoinTrakrAI is **not a financial advisor**, and no guarantees are made regarding profitability or investment performance. Use at your own risk.
-
----
-
