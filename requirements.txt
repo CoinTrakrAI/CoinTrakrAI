@@ -6,3 +6,4 @@ tensorflow
 matplotlib
 pyyaml
 jupyter
+pytest
