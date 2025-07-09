@@ -1,1 +1,11 @@
-"[paste the above content]" 
+# Firebase configs
+android_app/google-services.json
+app/google-services.json
+
+# AI memory and voice profiles
+ai_engine/memory/episodic_memory.json
+voice/character_profiles/neo.json
+
+# Plugin and onboarding configurations
+plugins/sample_plugin/manifest.json
+onboarding/mode_selector.json
